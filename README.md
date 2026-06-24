@@ -1,6 +1,6 @@
 # Hi, I'm Waleed Ahmad 👋
 
-I'm a Software Engineering graduate focused on building practical backend and full-stack applications using APIs, databases, cloud services, and modern development tools.
+I'm a Software Engineer focused on building practical backend and full-stack applications using APIs, databases, cloud services, and modern development tools.
 
 I enjoy working on systems where real-world problems meet software architecture — from payment flows and user verification to API monitoring and failure replay.
 
