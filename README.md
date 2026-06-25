@@ -21,4 +21,4 @@ I'm currently improving my backend engineering, system design, database design, 
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/waleed-ahmad-0b0ab32b6
-- Portfolio: 
+- Portfolio: https://waleed-ahmad-portfolio.pages.dev
